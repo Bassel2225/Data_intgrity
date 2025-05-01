@@ -1,6 +1,4 @@
-Here’s the content you can use for your `README.md` file:
 
-```markdown
 # 🔐 Flask GitHub OAuth 2.0 Authentication
 
 This project demonstrates how to implement GitHub OAuth 2.0 login in a Flask web application using the Flask-Dance library. It allows users to authenticate via GitHub or manually using a username and password. The app features secure password storage, session management, and login activity logging.
@@ -73,33 +71,4 @@ This will launch the app on `http://localhost:5000`. You can visit this URL in y
 
 ### 🎉 You’re all set! The app should now be running locally.
 
----
 
-## 🗂 Folder Structure
-
-```
-flask-github-oauth/
-│
-├── app.py                 # Main Flask application
-├── .env                  # Environment variables (not tracked by Git)
-├── templates/
-│   ├── home.html         # Home page template with login button
-│   └── profile.html      # User profile page after login
-├── venv/                 # Virtual environment (optional)
-└── README.md             # Project documentation
-```
-
----
-
-## 🤝 Contributing
-
-If you have any suggestions or improvements for this project, feel free to fork it and submit a pull request.
-
----
-
-## 💬 License
-
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
-```
-
-This `README.md` file includes an overview of the project, steps to run it, folder structure, and additional sections for contributing and licensing. You can further customize it as needed.
